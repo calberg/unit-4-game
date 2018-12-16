@@ -1,0 +1,43 @@
+#Rules {
+    background-color: tan;
+    color: green;
+    width: 500px;
+}
+body {
+    background-color: blue;
+    color: white;
+}
+header {
+    background-color: brown;
+    width: 300px;
+
+}
+#randomNum {
+    background-color: green;
+    color: purple;
+    width: 300px;
+}
+#winLoss {
+    background-color: aqua;
+    color: green;
+}
+.score {
+    background-color: teal;
+    color: white;
+}
+button {
+    display: inline-block;
+    height: 134px;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    width: 100px;
+}
+button img {
+    width: 100%;
+}
+#crystal {
+    display: block;
+    height: 130px;  
+    width: 100px;
+}
